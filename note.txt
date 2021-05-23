@@ -1,0 +1,4 @@
+1. package
+- yarn add --dev typescript
+- yarn add formik
+- yarn add urql graphql
