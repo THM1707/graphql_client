@@ -2,3 +2,9 @@
 - yarn add --dev typescript
 - yarn add formik
 - yarn add urql graphql
+- yarn add -D @graphql-codegen/cli
+- yarn add -D @graphql-codegen/typescript-urql
+
+
+2. template
+- rh: generate function component with interface
