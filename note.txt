@@ -4,6 +4,7 @@
 - yarn add urql graphql
 - yarn add -D @graphql-codegen/cli
 - yarn add -D @graphql-codegen/typescript-urql
+- yarn add @urql/exchange-graphcache
 
 
 2. template
