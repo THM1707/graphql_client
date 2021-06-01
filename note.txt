@@ -5,6 +5,8 @@
 - yarn add -D @graphql-codegen/cli
 - yarn add -D @graphql-codegen/typescript-urql
 - yarn add @urql/exchange-graphcache
+- yarn add next-urql react-is
+- yarn add nodemailer
 
 
 2. template
